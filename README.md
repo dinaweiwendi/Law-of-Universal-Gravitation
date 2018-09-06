@@ -1,7 +1,7 @@
 # Law-of-Universal-Gravitation
 a simple code to show how does the universe work influenced by gravity
-
 <br> A simple practice for implementing physical principles in programming.
+
 ![from https://sp18.datastructur.es/materials/proj/proj0/proj0](https://sp18.datastructur.es/materials/proj/proj0/netforce.png)
 
 ##Planet constructor : 
@@ -13,8 +13,8 @@ a simple code to show how does the universe work influenced by gravity
 <br>                     String imgFileName : the name of the file that corresponds to the image that depicts the planet
 
 <br>By calling 
-        calNetForceExertedByX(allPlanets) 
-        calNetForceExertedByY(allPlanets) 
+                calNetForceExertedByX(allPlanets) 
+                calNetForceExertedByY(allPlanets) 
 to calculate force in two dimension
 <br>run the code by calling 
         javac NBody.java
