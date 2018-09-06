@@ -13,10 +13,10 @@ a simple code to show how does the universe work influenced by gravity
 <br>                     String imgFileName : the name of the file that corresponds to the image that depicts the planet
 
 <br>By calling
-*calNetForceExertedByX(allPlanets) 
-*calNetForceExertedByY(allPlanets) 
+<br>calNetForceExertedByX(allPlanets) 
+<br>calNetForceExertedByY(allPlanets) 
 to calculate force in two dimension
 <br>run the code by calling 
-        *javac NBody.java
-        *java NBody 157788000.0 25000.0 data/planets.txt
+<br>javac NBody.java
+<br>java NBody 157788000.0 25000.0 data/planets.txt
 <br> the first variable is time of simulation, the second variable is the length of step to increase the time. The last one is the file name which describ the universe radius and planets.
