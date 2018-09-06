@@ -12,8 +12,8 @@ a simple code to show how does the universe work influenced by gravity
 <br>                     double mass : its mass<dr>                     
 <br>                     String imgFileName : the name of the file that corresponds to the image that depicts the planet
 
-<br>By calling 
-                calNetForceExertedByX(allPlanets) 
+<br>By calling
+    calNetForceExertedByX(allPlanets) 
                 calNetForceExertedByY(allPlanets) 
 to calculate force in two dimension
 <br>run the code by calling 
