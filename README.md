@@ -13,8 +13,8 @@ a simple code to show how does the universe work influenced by gravity
 <br>                     String imgFileName : the name of the file that corresponds to the image that depicts the planet
 
 <br>By calling
-<br>*calNetForceExertedByX(allPlanets) 
-<br>*calNetForceExertedByY(allPlanets) 
+*calNetForceExertedByX(allPlanets) 
+*calNetForceExertedByY(allPlanets) 
 to calculate force in two dimension
 <br>run the code by calling 
         *javac NBody.java
